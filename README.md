@@ -1,5 +1,5 @@
 # URL_Shortener 📊
-Self hosted URL shortener in Node.JS
+Self hosted URL shortener in Node.js
 
 # Install
 1. First install this Project
